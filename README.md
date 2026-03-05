@@ -6,8 +6,6 @@
 
 ![[](www.clustrmaps.com/map_v2.png?d=pjGjlHlyTrNSU7l2zpbi3I6ZVkZuZDtYT8WcJfTu7yU&cl=ffffff)](https://clustrmaps.com/site/1c9df)
 
-<body align="center">
-  <a href="https://clustrmaps.com/site/1c9df"  title="ClustrMaps"><img src="https://www.clustrmaps.com/map_v2.png?     d=pjGjlHlyTrNSU7l2zpbi3I6ZVkZuZDtYT8WcJfTu7yU&cl=ffffff" width="600"/></a>
-</body>
+<a href="https://clustrmaps.com/site/1c9df"  title="ClustrMaps"><img src="https://www.clustrmaps.com/map_v2.png?     d=pjGjlHlyTrNSU7l2zpbi3I6ZVkZuZDtYT8WcJfTu7yU&cl=ffffff" width="600" align="center"/></a>
 
 
